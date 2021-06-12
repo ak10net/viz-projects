@@ -1,0 +1,9 @@
+database can be used to address a range of questions, including:
+
+    Who are the suppliers and recipients of major conventional weapons?
+    What weapons have been exported or imported by specific suppliers or recipients?
+    How have the relationships between different suppliers and recipients changed over time?
+    Where do countries in conflict get their weapons from?
+    How do states implement their export control regulations?
+    Where are potentially destabilizing build ups of weapons occurring?
+    What is the relationship between access to natural resources and arms transfers?
